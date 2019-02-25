@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/privacy_ostar/static/css/main.be7cd5a8.chunk.css"
   },
   {
-    "revision": "d22f9449b2971a405be91a1a83b3fce7",
+    "revision": "3b4404800d015de29191bb34e7cb8f61",
     "url": "/privacy_ostar/index.html"
   }
 ];
